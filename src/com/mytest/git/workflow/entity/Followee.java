@@ -18,4 +18,13 @@ public class Followee {
     public void setAccount(Account account) {
         this.account = account;
     }
+    private String username;
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
 }
