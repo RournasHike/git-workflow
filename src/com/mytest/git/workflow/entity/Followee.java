@@ -28,6 +28,7 @@ public class Followee {
         this.username = username;
     }
     private Account account;
+    // use
 
     public Account getAccount() {
         return account;
