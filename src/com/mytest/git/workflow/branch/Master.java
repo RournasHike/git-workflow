@@ -8,7 +8,7 @@ package com.mytest.git.workflow.branch;
  * @copyright (c)   Inc. All rights reserved.
  * @date 2022/8/6 18:50
  */
-public class Master {
+public class Master extends Branch{
 
     /**
      * 名字

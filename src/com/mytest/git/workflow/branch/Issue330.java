@@ -7,7 +7,7 @@ package com.mytest.git.workflow.branch;
  * @copyright (c)   Inc. All rights reserved.
  * @date 2022/8/6 18:48
  */
-public class Issue330 {
+public class Issue330 extends Branch{
 
     /**
      * 提交哈希
