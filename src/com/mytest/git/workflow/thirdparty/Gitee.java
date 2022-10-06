@@ -1,6 +1,7 @@
 package com.mytest.git.workflow.thirdparty;
 
 /**
+ * Gitee代码仓库
  * @author Alex
  * @version 1.0.0
  * @company
