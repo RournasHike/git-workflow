@@ -8,8 +8,17 @@ package com.mytest.git.workflow.operation;
  * @date 2022/8/6 19:06
  */
 public abstract class GitOperation {
+    /**
+     * 名字
+     */
     private String name;
+    /**
+     * 命令行
+     */
     private String commandLine;
+    /**
+     * desc
+     */
     private String desc;
 
     public String getName() {
