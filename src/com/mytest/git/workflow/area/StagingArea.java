@@ -10,4 +10,29 @@ package com.mytest.git.workflow.area;
 public class StagingArea {
     private Long size;
     private Long postBufferSize;
+    private String desc;
+
+    public Long getSize() {
+        return size;
+    }
+
+    public void setSize(Long size) {
+        this.size = size;
+    }
+
+    public Long getPostBufferSize() {
+        return postBufferSize;
+    }
+
+    public void setPostBufferSize(Long postBufferSize) {
+        this.postBufferSize = postBufferSize;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
 }
