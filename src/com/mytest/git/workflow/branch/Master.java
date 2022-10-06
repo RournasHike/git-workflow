@@ -9,7 +9,14 @@ package com.mytest.git.workflow.branch;
  * @date 2022/8/6 18:50
  */
 public class Master {
+
+    /**
+     * 名字
+     */
     private String name;
+    /**
+     * 描述
+     */
     private String desc;
 
     public String getName() {
