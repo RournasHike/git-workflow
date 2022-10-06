@@ -1,5 +1,7 @@
 package com.mytest.git.workflow.entity;
 
+import java.util.List;
+
 /**
  * Followee
  * @author Alex
@@ -10,23 +12,14 @@ package com.mytest.git.workflow.entity;
  */
 public class Followee {
 
-    private Account account;
+    private List<Account> accountList;
 
-    public Account getAccount() {
-        return account;
+    public List<Account> getAccountList() {
+        return accountList;
     }
 
-    public void setAccount(Account account) {
-        this.account = account;
-    }
-    private String username;
-
-    public String getUsername() {
-        return username;
-    }
-
-    public void setUsername(String username) {
-        this.username = username;
+    public void setAccountList(List<Account> accountList) {
+        this.accountList = accountList;
     }
 
 }
