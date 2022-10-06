@@ -8,4 +8,29 @@ package com.mytest.git.workflow.branch;
  * @date 2022/8/6 18:48
  */
 public class Issue330 {
+
+    /**
+     * 提交哈希
+     */
+    private String commitHash;
+    /**
+     * 描述
+     */
+    private String desc;
+
+    public String getCommitHash() {
+        return commitHash;
+    }
+
+    public void setCommitHash(String commitHash) {
+        this.commitHash = commitHash;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
 }
