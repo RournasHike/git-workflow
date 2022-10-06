@@ -8,4 +8,6 @@ package com.mytest.git.workflow.area;
  * @date 2022/8/6 18:55
  */
 public class LocalRepository {
+    private String name;
+    private String value;
 }
