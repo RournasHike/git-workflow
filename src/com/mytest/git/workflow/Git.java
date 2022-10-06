@@ -1,5 +1,10 @@
 package com.mytest.git.workflow;
 
+import com.mytest.git.workflow.branch.Branch;
+import com.mytest.git.workflow.point.Head;
+
+import java.util.List;
+
 /**
  * @author Alex
  * @version 1.0.0
@@ -8,6 +13,6 @@ package com.mytest.git.workflow;
  * @date 2022/8/6 18:58
  */
 public class Git {
-    // TODO begin from branch master
-    // So do some operation
+    private Head head;
+    private Branch currentBranch;
 }
