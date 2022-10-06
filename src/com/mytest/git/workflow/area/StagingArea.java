@@ -8,8 +8,17 @@ package com.mytest.git.workflow.area;
  * @date 2022/8/6 18:55
  */
 public class StagingArea {
+    /**
+     * 大小
+     */
     private Long size;
+    /**
+     * post缓冲区大小
+     */
     private Long postBufferSize;
+    /**
+     * desc
+     */
     private String desc;
 
     public Long getSize() {
