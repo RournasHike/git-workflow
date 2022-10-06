@@ -7,7 +7,7 @@ package com.mytest.git.workflow.area;
  * @copyright (c)   Inc. All rights reserved.
  * @date 2022/8/6 18:55
  */
-public class LocalRepository {
+public class LocalRepository extends GitArea{
     /**
      * 名字
      */

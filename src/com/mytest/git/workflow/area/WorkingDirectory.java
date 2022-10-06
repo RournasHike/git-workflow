@@ -9,7 +9,7 @@ import java.util.List;
  * @copyright (c)   Inc. All rights reserved.
  * @date 2022/8/6 18:55
  */
-public class WorkingDirectory {
+public class WorkingDirectory extends GitArea {
     /**
      * 工作树
      */
