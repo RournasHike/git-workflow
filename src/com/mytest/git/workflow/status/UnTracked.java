@@ -1,6 +1,7 @@
 package com.mytest.git.workflow.status;
 
 /**
+ * 未追踪状态
  * @author Alex
  * @version 1.0.0
  * @company
