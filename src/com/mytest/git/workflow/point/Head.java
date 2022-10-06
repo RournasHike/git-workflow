@@ -11,6 +11,9 @@ import com.mytest.git.workflow.entity.Commit;
  * @date 2022/8/6 18:57
  */
 public class Head {
+    /**
+     *提交信息
+     */
     private Commit commit;
 
     public Commit getCommit() {
