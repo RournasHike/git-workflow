@@ -8,4 +8,5 @@ package com.mytest.git.workflow.operation;
  * @date 2022/10/6 17:57
  */
 public class ConfigOperation extends GitOperation{
+    // TODO config
 }
