@@ -19,6 +19,11 @@ public class Master {
      */
     private String desc;
 
+    /**
+     * 提交哈希
+     */
+    private String commitHash;
+
     public String getName() {
         return name;
     }

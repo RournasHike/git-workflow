@@ -14,9 +14,21 @@ public class Issue330 {
      */
     private String commitHash;
     /**
+     * 名字
+     */
+    private String name;
+    /**
      * 描述
      */
     private String desc;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     public String getCommitHash() {
         return commitHash;

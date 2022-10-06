@@ -18,6 +18,16 @@ public class Develop {
      */
     private String desc;
 
+    private String commitHash;
+
+    public String getCommitHash() {
+        return commitHash;
+    }
+
+    public void setCommitHash(String commitHash) {
+        this.commitHash = commitHash;
+    }
+
     public String getName() {
         return name;
     }
