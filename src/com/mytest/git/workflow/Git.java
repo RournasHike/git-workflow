@@ -13,6 +13,12 @@ import java.util.List;
  * @date 2022/8/6 18:58
  */
 public class Git {
+    /**
+     * 头指针
+     */
     private Head head;
+    /**
+     * 当前分支
+     */
     private Branch currentBranch;
 }
