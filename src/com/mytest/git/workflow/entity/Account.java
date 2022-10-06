@@ -8,7 +8,13 @@ package com.mytest.git.workflow.entity;
  * @date 2022/8/6 18:50
  */
 public class Account {
+    /**
+     * 用户名
+     */
     private String username;
+    /**
+     * 密码
+     */
     private String password;
 
     public String getUsername() {
