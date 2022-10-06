@@ -20,6 +20,7 @@ public class WorkingDirectory extends GitArea {
     }
 
     // TODO
+    // hot fix sth...
 }
 
 class WorkingTree{
