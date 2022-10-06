@@ -1,6 +1,7 @@
 package com.mytest.git.workflow.entity;
 
 /**
+ * Follower
  * @author Alex
  * @version 1.0.0
  * @company
