@@ -7,5 +7,5 @@ package com.mytest.git.workflow.operation;
  * @copyright (c)   Inc. All rights reserved.
  * @date 2022/10/6 16:57
  */
-public class RollbackOperation {
+public class RollbackOperation extends GitOperation{
 }

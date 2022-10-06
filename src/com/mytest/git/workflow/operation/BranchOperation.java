@@ -7,5 +7,5 @@ package com.mytest.git.workflow.operation;
  * @copyright (c)   Inc. All rights reserved.
  * @date 2022/10/6 17:08
  */
-public class BranchOperation {
+public class BranchOperation extends GitOperation{
 }
