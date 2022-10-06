@@ -9,4 +9,22 @@ package com.mytest.git.workflow.branch;
  * @date 2022/8/6 18:51
  */
 public class Develop {
+    private String name;
+    private String desc;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
 }
