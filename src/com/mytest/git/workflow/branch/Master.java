@@ -9,4 +9,5 @@ package com.mytest.git.workflow.branch;
  * @date 2022/8/6 18:50
  */
 public class Master {
+    // TODO
 }
