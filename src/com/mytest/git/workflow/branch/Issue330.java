@@ -9,7 +9,13 @@ package com.mytest.git.workflow.branch;
  */
 public class Issue330 {
 
+    /**
+     * 提交哈希
+     */
     private String commitHash;
+    /**
+     * 描述
+     */
     private String desc;
 
     public String getCommitHash() {
