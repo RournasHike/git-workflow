@@ -1,5 +1,7 @@
 package com.mytest.git.workflow.point;
 
+import com.mytest.git.workflow.entity.Commit;
+
 /**
  * 头指针
  * @author Alex
@@ -9,4 +11,13 @@ package com.mytest.git.workflow.point;
  * @date 2022/8/6 18:57
  */
 public class Head {
+    private Commit commit;
+
+    public Commit getCommit() {
+        return commit;
+    }
+
+    public void setCommit(Commit commit) {
+        this.commit = commit;
+    }
 }
