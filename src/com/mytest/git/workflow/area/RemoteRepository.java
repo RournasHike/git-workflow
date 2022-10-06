@@ -8,4 +8,7 @@ package com.mytest.git.workflow.area;
  * @date 2022/8/6 18:56
  */
 public class RemoteRepository {
+    private String name;
+    private String value;
+    private String remoteUrl;
 }
