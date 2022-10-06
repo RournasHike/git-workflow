@@ -10,6 +10,9 @@ import java.util.List;
  * @date 2022/8/6 18:55
  */
 public class WorkingDirectory {
+    /**
+     * 工作树
+     */
     private WorkingTree workingTree;
 
     public WorkingDirectory(WorkingTree tree){
@@ -20,6 +23,9 @@ public class WorkingDirectory {
 }
 
 class WorkingTree{
+    /**
+     * 根节点
+     */
     private Node treeRoot;
 
     public Node getTreeRoot() {
@@ -31,6 +37,14 @@ class WorkingTree{
     }
 }
 
+/**
+ * 工作区树形节点
+ * @author Alex
+ * @version 1.0.0
+ * @company XXX
+ * @copyright (c) XXX  Inc. All rights reserved.
+ * @date 2022/10/06 12:36:08
+ */
 class Node{
     private Integer no;
     private List<Node> nodeList;
