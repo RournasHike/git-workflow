@@ -9,5 +9,22 @@ package com.mytest.git.workflow.branch;
  * @date 2022/8/6 18:50
  */
 public class Master {
-    // TODO
+    private String name;
+    private String desc;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
 }
