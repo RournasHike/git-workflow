@@ -1,6 +1,7 @@
 package com.mytest.git.workflow.point;
 
 /**
+ * 头指针
  * @author Alex
  * @version 1.0.0
  * @company
