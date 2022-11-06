@@ -1,5 +1,7 @@
 package com.mytest.git.workflow.thirdparty;
 
+import com.mytest.git.workflow.base.WareHouse;
+
 /**
  * Github仓库
  * @author Alex
@@ -8,5 +10,5 @@ package com.mytest.git.workflow.thirdparty;
  * @copyright (c)   Inc. All rights reserved.
  * @date 2022/8/6 18:51
  */
-public class Github {
+public class Github extends WareHouse {
 }
