@@ -6,6 +6,7 @@ import com.mytest.git.workflow.point.Head;
 import java.util.List;
 
 /**
+ * git is a very useful version control system
  * @author Alex
  * @version 1.0.0
  * @company
