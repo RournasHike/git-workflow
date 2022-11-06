@@ -1,7 +1,7 @@
 package com.mytest.git.workflow.operation;
 
 /**
- * cherry-pick操作
+ * cherry-pick
  * @author Alex
  * @version 1.0.0
  * @company

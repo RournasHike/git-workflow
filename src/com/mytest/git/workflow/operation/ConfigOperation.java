@@ -1,7 +1,7 @@
 package com.mytest.git.workflow.operation;
 
 /**
- * 环境配置操作
+ * config
  * @author Alex
  * @version 1.0.0
  * @company
@@ -9,5 +9,4 @@ package com.mytest.git.workflow.operation;
  * @date 2022/10/6 17:57
  */
 public class ConfigOperation extends GitOperation{
-    // TODO config
 }

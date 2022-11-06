@@ -1,7 +1,7 @@
 package com.mytest.git.workflow.operation;
 
 /**
- * 提交操作
+ * commit
  * @author Alex
  * @version 1.0.0
  * @company
