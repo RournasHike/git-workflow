@@ -1,6 +1,7 @@
 package com.mytest.git.workflow.operation;
 
 /**
+ * config
  * @author Alex
  * @version 1.0.0
  * @company
