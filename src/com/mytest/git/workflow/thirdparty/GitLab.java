@@ -7,7 +7,7 @@ import com.mytest.git.workflow.base.WareHouse;
  * @version 1.0.0
  * @company
  * @copyright (c)   Inc. All rights reserved.
- * @date 2022/8/6 18:51
+ * @date 2022/11/6 23:29
  */
-public class Gitee extends WareHouse {
+public class GitLab extends WareHouse {
 }
