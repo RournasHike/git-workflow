@@ -10,4 +10,5 @@ package com.mytest.git.workflow.operation;
  */
 public class CloneOperation extends GitOperation{
     // TODO sth
+    // git clone ...
 }
