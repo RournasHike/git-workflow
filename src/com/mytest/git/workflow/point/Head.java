@@ -3,7 +3,7 @@ package com.mytest.git.workflow.point;
 import com.mytest.git.workflow.entity.Commit;
 
 /**
- * 头指针
+ * 头指针   xxx
  * @author Alex
  * @version 1.0.0
  * @company
@@ -15,6 +15,10 @@ public class Head {
      *提交信息
      */
     private Commit commit;
+
+    public Head(Commit commit) {
+        this.commit = commit;
+    }
 
     public Commit getCommit() {
         return commit;
