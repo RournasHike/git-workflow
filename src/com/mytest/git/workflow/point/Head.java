@@ -16,6 +16,10 @@ public class Head {
      */
     private Commit commit;
 
+    public Head(Commit commit) {
+        this.commit = commit;
+    }
+
     public Commit getCommit() {
         return commit;
     }
