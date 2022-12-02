@@ -1,6 +1,7 @@
 package com.mytest.git.workflow.entity;
 
 /**
+ * github账户
  * @author Alex
  * @version 1.0.0
  * @company
@@ -8,7 +9,13 @@ package com.mytest.git.workflow.entity;
  * @date 2022/8/6 18:50
  */
 public class Account {
+    /**
+     * 用户名
+     */
     private String username;
+    /**
+     * 密码
+     */
     private String password;
 
     public String getUsername() {

@@ -1,12 +1,11 @@
-package com.mytest.git.workflow.status;
+package com.mytest.git.workflow.area;
 
 /**
- * 暂存状态
  * @author Alex
  * @version 1.0.0
  * @company
  * @copyright (c)   Inc. All rights reserved.
- * @date 2022/8/6 18:54
+ * @date 2022/10/6 16:30
  */
-public enum Staged {
+public class GitArea {
 }

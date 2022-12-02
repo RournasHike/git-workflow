@@ -3,6 +3,7 @@ package com.mytest.git.workflow.thirdparty;
 import com.mytest.git.workflow.base.WareHouse;
 
 /**
+ * Gitee代码仓库
  * @author Alex
  * @version 1.0.0
  * @company
