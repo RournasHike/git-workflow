@@ -3,7 +3,7 @@ package com.mytest.git.workflow.point;
 import com.mytest.git.workflow.entity.Commit;
 
 /**
- * 头指针
+ * 头指针   xxx
  * @author Alex
  * @version 1.0.0
  * @company
