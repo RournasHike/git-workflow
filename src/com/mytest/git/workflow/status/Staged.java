@@ -1,7 +1,7 @@
 package com.mytest.git.workflow.status;
 
 /**
- * 暂存状态(dev)
+ * 暂存状态(staged)
  * @author Alex
  * @version 1.0.0
  * @company
