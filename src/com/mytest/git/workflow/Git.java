@@ -1,6 +1,7 @@
 package com.mytest.git.workflow;
 
 import com.mytest.git.workflow.branch.Branch;
+import com.mytest.git.workflow.entity.Commit;
 import com.mytest.git.workflow.point.Head;
 
 import java.util.List;
@@ -22,4 +23,8 @@ public class Git {
      * 当前分支
      */
     private Branch currentBranch;
+    /**
+     * 当前提交
+     */
+    private Commit currentCommit;
 }
