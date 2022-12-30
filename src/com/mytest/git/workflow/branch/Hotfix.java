@@ -1,6 +1,7 @@
 package com.mytest.git.workflow.branch;
 
 /**
+ * 热修复分支
  * @author Alex
  * @version 1.0.0
  * @company
