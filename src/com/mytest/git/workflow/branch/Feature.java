@@ -1,6 +1,7 @@
 package com.mytest.git.workflow.branch;
 
 /**
+ * 新功能分支
  * @author Alex
  * @version 1.0.0
  * @company
