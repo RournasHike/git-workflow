@@ -1,7 +1,7 @@
 package com.mytest.git.workflow.base;
 
 /**
- * 代码仓库父类
+ * 代码仓库基类
  * @author Alex
  * @version 1.0.0
  * @company
